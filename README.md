@@ -7,9 +7,10 @@ Paper Link:: <http://jiaya.me/all_final_papers/motion_deblur_cvpr07.pdf>
 ## GitHub repo link
 <https://github.com/Digital-Image-Processing-IIITH/project-proximacentauri> 
 
+## Team Leader
+* Neel Ashok Mishra **(2020701009)**, neel.mishra@research.iit.ac.in
 ## Team Members
 * Abhinaba Bala **(2020701001)**, abhinaba.bala@research.iiit.ac.in
-* Neel Ashok Mishra **(2020701009)**, neel.mishra@research.iit.ac.in
 * Ritam Basu **(2020701005)**, ritam.basu@research.iiit.ac.in
 * Jigyasu Khandelwal **(2020702013)**, jigyasu.khandelwal@research.iiit.ac.in
 
